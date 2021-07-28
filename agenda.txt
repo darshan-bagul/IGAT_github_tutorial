@@ -4,4 +4,9 @@ IGAT Schedule:
 		2. Introduction of our team members and experiences sharing session
 		3. QGIS tutorial
 		4. Feedback & Day 1 Close
+	b. Day 2
+	    	1. Alteryx tutorial
+	    	2. Geospatial labs - part 1
+	    	3. Use case of the day
+	    	4. Feedback
 
